@@ -9,7 +9,7 @@
       <div class="field">
         <!-- [移动端]标题 -->
         <h2 class="mobile-title">
-          <h3 class="title">芋道后台管理系统</h3>
+          <h3 class="title">eap admin</h3>
         </h2>
 
         <!-- 表单 -->
@@ -145,7 +145,7 @@ export default {
         mobile: "",
         mobileCode: "",
         rememberMe: false,
-        tenantName: "芋道源码",
+        tenantName: "eap"
       },
       scene: 21,
 
